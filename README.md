@@ -1,3 +1,4 @@
+![Banner](https://github.com/sykeben/Spongebuntu/raw/master/Banner.jpg)
 # Spongebuntu
 Spongebob themed Ubuntu distribution.
 
